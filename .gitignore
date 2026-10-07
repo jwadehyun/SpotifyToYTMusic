@@ -1,0 +1,5 @@
+.venv
+__pycache__
+browser.json
+client_secret.json
+.DS_Store
