@@ -1,6 +1,10 @@
-# Spotify → YouTube Music
+# Spotify to YouTube Music
 
-Copies a public Spotify playlist (or album) to a new YouTube Music playlist.
+Essentially copies a public Spotify playlist (or album) to a new YouTube Music playlist.
+
+As a YouTube music user, one thing about Spotify that that tempts me the most is definitely their amazing playlists. Not only from the users too. Did you know that Spotify now has Ticketmaster posting the setlists for a bunch of concerts? Well now you can use this to seamlessly copy the spotify playlist to youtube music. 
+Easily verify that you got the correct songs with the verification page. Choose different alternatives if the songs don't match but so far it's been pretty accurate. 
+You can also choose whether or not to make the playlist private. 
 
 ## Run
 
